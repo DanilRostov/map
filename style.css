@@ -1,0 +1,29 @@
+.map-box {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}
+
+.map-box svg {
+	margin: 0 auto;
+}
+
+.title {
+	text-align: center;
+	margin: 0 auto;
+	font-size: 36px;	
+	font-weight: bold;
+	fill: #3a3a3a;
+    font-family: "Open Sans", Roboto, sans-serif;
+}
+
+.subtitle {
+	text-align: center;
+	margin: 0 auto;
+	font-size: 24px;
+	font-weight: normal !important;
+	fill: #3a3a3a;
+    font-family: "Open Sans", Roboto, sans-serif;	
+}
